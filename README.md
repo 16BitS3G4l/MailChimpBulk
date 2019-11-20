@@ -9,4 +9,6 @@ If you need to send out a bunch of templates(as previews to specific emails) in 
 5. Start testing it out!
 
 ## Feedback
-If you're facing any issues with the program, I'd be glad to help. Just submit a issue and I'll get back to you on the specific subject matter.
+If you're facing any issues with the program, I'd be glad to help. Just submit a issue and I'll get back to you on the specific subject matter. I've created templates with common details that are necessary in order to debug, etc. You can view them here: [view issue templates](https://github.com/dev-segal/mailchimp-bulk-preview/issues/new/choose)
+
+
