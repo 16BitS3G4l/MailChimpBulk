@@ -26,7 +26,7 @@ function findIdFromURL(url) {
 
 function send_test_template(id) {
     var xhr = new XMLHttpRequest();
-    xhr.open('POST', 'https://us5.admin.mailchimp.com/templates/send-test', true);
+    xhr.open('POST', location.origin + "/templates/send-test', true);
     xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
 
     var url_send = `id=${id}&test-email=${send_to}&login-ids=&include-message=N&notification-ids=`;
