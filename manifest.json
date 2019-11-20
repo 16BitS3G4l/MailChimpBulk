@@ -1,0 +1,27 @@
+{
+  "name": "Mailchimp Bulk Template Sender - Send Your Templates (previews in bulk)",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Basically? This extension supercharges mailchimp's 'send preview' by allowing you to do it in BULK!",
+  "homepage_url": "https://github.com/dev-segal/bulk-mailchimp-preview",
+  "icons": {
+    "16": "icons/smaller.png",
+    "128": "icons/larger.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/*" 
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ],
+      "css": [
+        "css/styles.css"
+      ]
+    }
+  ]
+}
