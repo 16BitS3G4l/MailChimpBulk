@@ -1,7 +1,7 @@
 # MailChimpBulk 
-If you need to send out a bunch of templates(as previews to specific emails) in mailchimp, you can stop wasting time right now and start being productive.
+Sending out a bunch of templates(as previews to specific emails) to various devices, platforms, and users in mailchimp doesn't seem to be simple, or even possible. But it might be, if you use MailChimpBulk - by just pressing a single button, you'll be able to send templates in bulk. 
 
-Note: currently ***only*** works on free mailchimp versions
+Note: currently ***only*** works on free mailchimp versions. 
 
 ## Installation
 1. Download repository as a .zip file using git or [you can download directly](https://github.com/dev-segal/mailchimp-bulk-preview/archive/master.zip).
