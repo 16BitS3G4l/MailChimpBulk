@@ -1,4 +1,4 @@
-# Mailchimp Bulk Preview Sender
+# MailChimpBulk 
 If you need to send out a bunch of templates(as previews to specific emails) in mailchimp, you can stop wasting time right now and start being productive.
 
 Note: currently ***only*** works on free mailchimp versions
