@@ -72,7 +72,7 @@ function createBtnTrigger() {
     
     btn.setAttribute("data-event-category", "Primary");
     btn.setAttribute("role", "button");
-    btn.id = "lkasdjfkdf345ajdflksdfl";
+    btn.id = "30e7c5839fada82f693fc4128bb46568acdbba6fd64357f4053f0075990f8ac0d591ff708a6b7c1ac279dd7d37";
     btn.text = "Launch Bulk Sender";
 
     btn.onclick = onBtnClicked;
